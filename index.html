@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Forecast Animation</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .gif-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+        #mainImage {
+            margin-top: 20px;
+            max-width: 100%; /* Allow image to fit within screen width */
+            height: auto;
+            border: 1px solid #ccc;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        select {
+            margin-top: 20px;
+            padding: 10px;
+            font-size: 16px;
+        }
+        .button-container {
+            margin-top: 30px;
+        }
+        .navigate-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .navigate-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+    <script>
+        // Get today's date and determine the latest GFS run based on the current hour
+        const today = new Date();
+        const dateStr = today.toISOString().split('T')[0].replace(/-/g, ""); // Format as YYYYMMDD
+        const currentHour = today.getHours();
+        const hourStr = `${(Math.floor(currentHour / 6) * 6).toString().padStart(2, '0')}`; // Get the latest run in 6-hour intervals
+
+
+        // Generate forecast steps
+        const forecastSteps = [];
+        for (let i = 0; i <= 12; i++) {
+            forecastSteps.push(`f${i.toString().padStart(3, '0')}`); // Generates ['f000', 'f001', ..., 'f012']
+        }
+        for (let i = 18; i <= 96; i += 6) {
+            forecastSteps.push(`f${i.toString().padStart(3, '0')}`); // Adds ['f018', 'f024', ..., 'f096']
+        }
+
+
+        // Create filenames based on the current hour and forecast steps
+        const dynamicForecastSteps = forecastSteps.map(step => {
+            return `plot_${hourStr}_${step}.png`; // Creates filenames like 'plot_00_f000.png', 'plot_06_f001.png', etc.
+        });
+
+
+        // Array of forecasts including animated forecast
+        const forecasts = [
+            { file: "gfs_animation.gif", name: "Animated Forecast" },
+        ].concat(dynamicForecastSteps.map((file, index) => {
+            return { file: file, name: `Forecast Step ${forecastSteps[index]}` };
+        }));
+
+
+        // Function to populate the dropdown menu
+        function populateDropdown() {
+            const dropdown = document.getElementById('imageSelect');
+            forecasts.forEach(step => {
+                const option = document.createElement('option');
+                option.value = step.file;
+                option.textContent = step.name; // Using descriptive names
+                dropdown.appendChild(option);
+            });
+        }
+
+
+        // Function to change the displayed image based on selected option
+        function changeImage() {
+            const dropdown = document.getElementById('imageSelect');
+            const selectedImage = dropdown.value;
+            const mainImage = document.getElementById('mainImage');
+            mainImage.src = `public/images/${selectedImage}`;
+            mainImage.alt = selectedImage.replace('.png', '').replace('.gif', '').replace('_', ' ').replace('plot ', 'Forecast Step ');
+        }
+
+
+        // Populate the dropdown when the page loads
+        window.onload = populateDropdown;
+    </script>
+</head>
+<body>
+    <!-- Button to navigate to the Rain DBZ page -->
+    <div class="button-container">
+        <a href="rain-dbz.html">
+            <button class="navigate-button">Rain DBZ</button>
+        </a>
+    </div>
+
+    <h1>Weather Forecast Animation</h1>
+   
+    <!-- Dropdown Menu -->
+    <div>
+        <h2>Select a Forecast Step or Animation</h2>
+        <select id="imageSelect" onchange="changeImage()">
+            <!-- Options will be populated by JavaScript -->
+        </select>
+    </div>
+
+    <!-- Display the selected image -->
+    <div class="gif-container">
+        <h2>Selected Forecast Step / Animation</h2>
+        <img id="mainImage" src="public/images/gfs_animation.gif" alt="GFS Forecast Animation">
+    </div>
+</body>
+</html>

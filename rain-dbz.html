@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rain DBZ Images</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px;
+            border: 1px solid #ccc;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        .navigate-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .navigate-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Rain DBZ Images</h1>
+
+    <!-- Navigation button back to main page -->
+    <div>
+        <a href="index.html">
+            <button class="navigate-button">Back to Main Page</button>
+        </a>
+    </div>
+
+    <!-- Dropdown Menu for selecting forecast images -->
+    <div>
+        <h2>Select a Forecast Step</h2>
+        <select id="imageSelect" onchange="changeImage()">
+            <!-- Options will be populated by JavaScript -->
+        </select>
+    </div>
+
+    <!-- Display the GIF animation initially -->
+    <div class="gif-container">
+        <h2>Forecast Animation</h2>
+        <img id="mainImage" src="public/rainpng/gfs_animation.gif" alt="Rain DBZ Forecast Animation">
+    </div>
+
+    <script>
+        // Get today's date and determine the latest GFS run based on the current hour
+        const today = new Date();
+        const currentHour = today.getHours();
+        const hourStr = `${(Math.floor(currentHour / 6) * 6).toString().padStart(2, '0')}`; // Get the latest run in 6-hour intervals
+
+        // Generate forecast steps
+        const forecastSteps = [];
+        for (let i = 0; i <= 12; i++) {
+            forecastSteps.push(`f${i.toString().padStart(3, '0')}`); // Generates ['f000', 'f001', ..., 'f012']
+        }
+        for (let i = 18; i <= 96; i += 6) {
+            forecastSteps.push(`f${i.toString().padStart(3, '0')}`); // Adds ['f018', 'f024', ..., 'f096']
+        }
+
+        // Create filenames based on the current hour and forecast steps
+        const dynamicForecastSteps = forecastSteps.map(step => {
+            return `plot_${hourStr}_${step}.png`; // Creates filenames like 'plot_00_f000.png', 'plot_06_f001.png', etc.
+        });
+
+        // Function to populate the dropdown menu
+        function populateDropdown() {
+            const dropdown = document.getElementById('imageSelect');
+            dynamicForecastSteps.forEach((file, index) => {
+                const option = document.createElement('option');
+                option.value = file;
+                option.textContent = `Forecast Step ${forecastSteps[index]}`; // Using descriptive names
+                dropdown.appendChild(option);
+            });
+            // Set the first option as selected but don't change the image yet
+            if (dynamicForecastSteps.length > 0) {
+                dropdown.selectedIndex = 0; // Select the first item
+            }
+        }
+
+        // Function to change the displayed image based on selected option
+        function changeImage() {
+            const dropdown = document.getElementById('imageSelect');
+            const selectedImage = dropdown.value;
+            const mainImage = document.getElementById('mainImage');
+            mainImage.src = `public/rainpng/${selectedImage}`;
+            mainImage.alt = selectedImage.replace('.png', '').replace('_', ' ').replace('plot ', 'Forecast Step ');
+        }
+
+        // Populate the dropdown when the page loads
+        window.onload = function() {
+            populateDropdown();
+            // The mainImage already shows the GIF on page load
+        };
+    </script>
+
+</body>
+</html>

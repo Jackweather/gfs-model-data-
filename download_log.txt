@@ -1,0 +1,458 @@
+Selected cycle: t00z
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f001.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f002.co.grib2
+Selected cycle: t00z
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f001.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f002.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f003.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f004.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f005.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f006.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f007.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f008.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f009.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f010.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f011.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f012.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f013.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f014.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f015.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f016.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f017.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f018.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f019.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f020.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f021.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f022.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f023.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f024.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f025.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f026.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f027.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f028.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f029.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f030.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f031.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f032.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f033.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f034.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f035.co.grib2
+Selected cycle: t00z
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f011.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f009.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f013.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f004.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f007.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f010.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f002.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f005.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f003.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f001.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f008.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f016.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f012.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f023.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f025.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f021.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f017.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f014.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f019.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f031.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f015.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f032.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f006.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f029.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f018.co.grib2
+Failed to download blend.t00z.core.f037.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f040.co.grib2 for 20241106. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f033.co.grib2
+Failed to download blend.t00z.core.f043.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f046.co.grib2 for 20241106. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f035.co.grib2
+Failed to download blend.t00z.core.f049.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f055.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f052.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f058.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f061.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f064.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f067.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f070.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f073.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f076.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f082.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f079.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f085.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f091.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f094.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f088.co.grib2 for 20241106. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f028.co.grib2
+Failed to download blend.t00z.core.f097.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f100.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f103.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f106.co.grib2 for 20241106. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f034.co.grib2
+Failed to download blend.t00z.core.f109.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f112.co.grib2 for 20241106. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f026.co.grib2
+Failed to download blend.t00z.core.f115.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f124.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f121.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f118.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f127.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f130.co.grib2 for 20241106. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f020.co.grib2
+Failed to download blend.t00z.core.f133.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f139.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f136.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f142.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f145.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f148.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f151.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f157.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f154.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f160.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f166.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f163.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f169.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f172.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f181.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f178.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f175.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f184.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f187.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f190.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f193.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f199.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f196.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f202.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f205.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f208.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f211.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f214.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f220.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f217.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f223.co.grib2 for 20241106. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f030.co.grib2
+Failed to download blend.t00z.core.f226.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f235.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f244.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f238.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f241.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f250.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f229.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f232.co.grib2 for 20241106. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f036.co.grib2
+Failed to download blend.t00z.core.f247.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f256.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f253.co.grib2 for 20241106. Status code: 404
+Failed to download blend.t00z.core.f259.co.grib2 for 20241106. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f027.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f022.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f024.co.grib2
+Plot saved as weather_data_20241106\weather_plot_20241106.png
+Selected cycle: t00z
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f004.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f002.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f005.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f001.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f007.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f009.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f003.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f008.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f006.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f014.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f010.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f011.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f012.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f017.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f013.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f016.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f015.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f020.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f019.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f021.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f022.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f025.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f023.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f026.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f029.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f018.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f027.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f031.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f028.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f024.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f030.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f032.co.grib2
+Failed to download blend.t00z.core.f037.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f040.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f043.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f046.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f049.co.grib2. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f035.co.grib2
+Failed to download blend.t00z.core.f055.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f052.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f061.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f058.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f064.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f067.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f073.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f070.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f076.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f079.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f082.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f085.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f088.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f091.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f094.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f097.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f100.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f103.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f106.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f109.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f112.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f115.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f118.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f121.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f124.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f127.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f130.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f133.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f136.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f139.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f142.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f145.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f148.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f151.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f154.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f157.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f160.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f163.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f166.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f169.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f172.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f175.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f178.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f181.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f184.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f187.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f190.co.grib2. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f033.co.grib2
+Failed to download blend.t00z.core.f193.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f196.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f199.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f202.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f205.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f208.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f211.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f214.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f217.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f220.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f223.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f226.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f229.co.grib2. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f036.co.grib2
+Failed to download blend.t00z.core.f232.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f235.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f241.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f238.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f244.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f247.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f250.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f253.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f256.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f259.co.grib2. Status code: 404
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f034.co.grib2
+Can't create file 'weather_data_20231105/blend.t23z.core.f055.co.grib2.5b7b6.idx'
+Traceback (most recent call last):
+  File "c:\Users\jacfo\AppData\Local\Programs\Python\Python312\Lib\site-packages\cfgrib\messages.py", line 537, in from_indexpath_or_filestream
+    with compat_create_exclusive(indexpath) as new_index_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacfo\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "c:\Users\jacfo\AppData\Local\Programs\Python\Python312\Lib\site-packages\cfgrib\messages.py", line 503, in compat_create_exclusive
+    fd = os.open(path, os.O_WRONLY | os.O_CREAT | os.O_EXCL)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'weather_data_20231105/blend.t23z.core.f055.co.grib2.5b7b6.idx'
+Can't read index file 'weather_data_20231105/blend.t23z.core.f055.co.grib2.5b7b6.idx'
+Traceback (most recent call last):
+  File "c:\Users\jacfo\AppData\Local\Programs\Python\Python312\Lib\site-packages\cfgrib\messages.py", line 547, in from_indexpath_or_filestream
+    index_mtime = os.path.getmtime(indexpath)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacfo\AppData\Local\Programs\Python\Python312\Lib\genericpath.py", line 67, in getmtime
+    return os.stat(filename).st_mtime
+           ^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'weather_data_20231105/blend.t23z.core.f055.co.grib2.5b7b6.idx'
+Selected cycle: t00z
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f004.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f003.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f006.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f007.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f005.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f008.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f001.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f010.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f002.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f011.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f012.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f009.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f015.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f017.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f019.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f014.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f013.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f020.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f023.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f016.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f025.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f024.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f026.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f021.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f028.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f018.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f027.co.grib2
+Selected cycle: t00z
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f001.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f002.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f003.co.grib2
+Selected cycle: t00z
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f001.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f002.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f003.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f004.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f005.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f006.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f007.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f008.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f009.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f010.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f011.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f012.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f013.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f014.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f015.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f016.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f017.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f018.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f019.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f020.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f021.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f022.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f023.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f024.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f025.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f026.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f027.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f028.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f029.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f030.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f031.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f032.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f033.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f034.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f035.co.grib2
+File downloaded and saved as weather_data_20241106\blend.t00z.core.f036.co.grib2
+Failed to download blend.t00z.core.f037.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f040.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f043.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f046.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f049.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f052.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f055.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f058.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f061.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f064.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f067.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f070.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f073.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f076.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f079.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f082.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f085.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f088.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f091.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f094.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f097.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f100.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f103.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f106.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f109.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f112.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f115.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f118.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f121.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f124.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f127.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f130.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f133.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f136.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f139.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f142.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f145.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f148.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f151.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f154.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f157.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f160.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f163.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f166.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f169.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f172.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f175.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f178.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f181.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f184.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f187.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f190.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f193.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f196.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f199.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f202.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f205.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f208.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f211.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f214.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f217.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f220.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f223.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f226.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f229.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f232.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f235.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f238.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f241.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f244.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f247.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f250.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f253.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f256.co.grib2. Status code: 404
+Failed to download blend.t00z.core.f259.co.grib2. Status code: 404
+No valid snow data found.
+Selected cycle: t00z
+Failed to download blend.t00z.core.f000.co.grib2. Status code: 404
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f001.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f002.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f003.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f004.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f005.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f006.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f007.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f008.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f009.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f010.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f011.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f012.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f013.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f014.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f015.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f016.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f017.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f018.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f019.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f020.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f021.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f022.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f023.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f024.co.grib2
+File downloaded and saved as public\weather_data_20241106\blend.t00z.core.f025.co.grib2
+No valid snow data found.
